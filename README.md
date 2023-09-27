@@ -2,7 +2,7 @@
 <h3 align="center">Upcoming Data Analyst and having interest in Front End Development. President, Computer Society of India, Bennett University.</h3>
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=karamraj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=karamraj&icon=0&color=0)](https://visitcount.itsvg.in) <br>
 🔭 I’m currently working on a Data Science Project<br>🌱 I’m currently learning Frameworks, Courses, etc<br>👨‍💻 All of my projects are available at https://www.karamrajsanand.tech/<br>💬 Ask me about Front End Languages (HTML, CSS, JS) & Python<br>📫 How to reach me karamraj.anand@outlook.com<br>📄 Know about my experiences https://www.karamrajsanand.tech/
 
 
@@ -29,4 +29,3 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karamraj&icon=0&color=0)](https://visitcount.itsvg.in)
