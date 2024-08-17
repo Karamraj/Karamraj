@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karamraj Singh Anand</h1>
-<h3 align="center">Upcoming Data Analyst and having interest in Front End Development. President, Computer Society of India, Bennett University.</h3>
+<h3 align="center"> Pre-Final Year Student having keen interest in Product Management. President, School of Computer Science Engineering & Technology, Bennett University.</h3>
 
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=karamraj&icon=0&color=0)](https://visitcount.itsvg.in)<br>
